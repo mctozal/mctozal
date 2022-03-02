@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ## 📌 GitHub Stats And Top Languages
 
 <p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=UtkuGlsvn&show_icons=true&count_private=true&hide=contribs,issues" alt="UtkuGlsvn's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkuGlsvn&layout=compact&hide=html,css" alt="My Top Langs" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=mctozal&show_icons=true&count_private=true&hide=contribs,issues" alt="UtkuGlsvn's github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mctozal&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
 
 
